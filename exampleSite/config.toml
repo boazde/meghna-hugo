@@ -1,7 +1,7 @@
 baseURL = "https://gleanet.netlify.com"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
-disableLanguages = [""]
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
