@@ -1,4 +1,4 @@
-baseURL = "https://Gleanet.com"
+baseURL = "https://gleanet.netlify.com"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 disableLanguages = [""]
