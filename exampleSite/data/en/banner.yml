@@ -4,8 +4,7 @@ banner:
   bg_Image: images/slider/hero-area.jpg
   icon: ''
   title: Experience new way of investments
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  content: Fixed Income Investments is now simple with our AI power
   button:
     enable: true
     label: Explore Us
