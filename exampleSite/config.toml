@@ -1,4 +1,4 @@
-baseURL = "https://gleanet.netlify.com"
+baseURL = "https://finheros.netlify.com"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 disableLanguages = ["fr"]
@@ -6,7 +6,7 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "Gleanet"
+title = "FInHeros"
 [Languages.en]
 contentDir = "content/english"
 home = "Home"
