@@ -9,14 +9,8 @@ team:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
     social_Icon:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/boazdescalo/
-    - icon: ti-dribbble
-      link: "#"
   - image: images/team/team-2.jpg
     name: Raz Hadas
     designation: Co-Founder
