@@ -1,5 +1,5 @@
 ---
-title: Smart Fixed Income Investments
+title: Fixed Income Is Still a Mystery to Many Investors
 date: 2018-09-12T08:51:12.000+00:00
 author: John Doe
 image: images/blog/blog-post-3.jpg
